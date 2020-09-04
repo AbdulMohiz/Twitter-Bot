@@ -1,0 +1,15 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Errors: no test specified\" && exit 1"
+  },
+  "author": "Abdul Mohiz",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.0.0"
+  },
+  "keywords": [],
+  "description": ""
+}
